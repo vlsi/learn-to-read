@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learn-to-read/static/css/main.1a5c8fe5.chunk.css",
+    "main.js": "/learn-to-read/static/js/main.05cfa452.chunk.js",
+    "main.js.map": "/learn-to-read/static/js/main.05cfa452.chunk.js.map",
+    "runtime-main.js": "/learn-to-read/static/js/runtime-main.4e2d82bd.js",
+    "runtime-main.js.map": "/learn-to-read/static/js/runtime-main.4e2d82bd.js.map",
+    "static/js/2.1cb6800f.chunk.js": "/learn-to-read/static/js/2.1cb6800f.chunk.js",
+    "static/js/2.1cb6800f.chunk.js.map": "/learn-to-read/static/js/2.1cb6800f.chunk.js.map",
+    "index.html": "/learn-to-read/index.html",
+    "precache-manifest.dd8f74c2e258f8dc38d6da277e8d56f0.js": "/learn-to-read/precache-manifest.dd8f74c2e258f8dc38d6da277e8d56f0.js",
+    "service-worker.js": "/learn-to-read/service-worker.js",
+    "static/css/main.1a5c8fe5.chunk.css.map": "/learn-to-read/static/css/main.1a5c8fe5.chunk.css.map",
+    "static/js/2.1cb6800f.chunk.js.LICENSE.txt": "/learn-to-read/static/js/2.1cb6800f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/learn-to-read/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e2d82bd.js",
+    "static/js/2.1cb6800f.chunk.js",
+    "static/css/main.1a5c8fe5.chunk.css",
+    "static/js/main.05cfa452.chunk.js"
+  ]
+}
